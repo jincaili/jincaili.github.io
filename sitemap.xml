@@ -76,15 +76,6 @@
     
     <url>
     
-      <loc>http://www.lijincai.cn/categories/cooking/</loc>
-      <lastmod>2018-09-02T22:39:53+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>http://www.lijincai.cn/tags/cooking/</loc>
       <lastmod>2018-09-02T22:39:53+08:00</lastmod>
       <priority>0</priority>
@@ -94,8 +85,8 @@
     
     <url>
     
-      <loc>http://www.lijincai.cn/categories/culture/</loc>
-      <lastmod>2018-09-02T22:41:16+08:00</lastmod>
+      <loc>http://www.lijincai.cn/categories/cooking/</loc>
+      <lastmod>2018-09-02T22:39:53+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -104,6 +95,15 @@
     <url>
     
       <loc>http://www.lijincai.cn/tags/culture/</loc>
+      <lastmod>2018-09-02T22:41:16+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.lijincai.cn/categories/culture/</loc>
       <lastmod>2018-09-02T22:41:16+08:00</lastmod>
       <priority>0</priority>
     </url>
