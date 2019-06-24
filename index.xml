@@ -1,50 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jincai Li Homepage on Jincai Li Homepage</title>
-    <link>http://www.lijincai.cn/</link>
-    <description>Recent content in Jincai Li Homepage on Jincai Li Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Jincai Li</title>
+    <link>http://jincaili.gitHub.io/</link>
+    <description>Recent content on Jincai Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jun 2019 23:58:33 +0800</lastBuildDate>
+    
+	    <atom:link href="http://jincaili.gitHub.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>跨文化交流</title>
-      <link>http://www.lijincai.cn/post/cross-culture/</link>
-      <pubDate>Sun, 02 Sep 2018 22:41:16 +0800</pubDate>
+      <title>Second</title>
+      <link>http://jincaili.gitHub.io/post/second/</link>
+      <pubDate>Sat, 22 Jun 2019 23:58:33 +0800</pubDate>
       
-      <guid>http://www.lijincai.cn/post/cross-culture/</guid>
-      <description>&lt;p&gt;要直接还是要委婉&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;先说一个跨文化交流困惑：&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Smelly Cat (Originally Performed By Taylor Swift &amp;amp; Lisa Kudrow Phoebe) [Tribute Version]
-  Viel Lounge Band - Smelly Cat (Originally Performed By Taylor Swift &amp;amp; Lisa Kudrow Phoebe) [Tribute Version]&lt;/p&gt;
-&lt;/blockquote&gt;
+      <guid>http://jincaili.gitHub.io/post/second/</guid>
+      <description>&lt;p&gt;Testing my new blog&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Recipe_Beef_Stew_Chinese_Home_cooking_Style</title>
-      <link>http://www.lijincai.cn/post/recipe_beef_stew_chinese_home_cooking_style/</link>
-      <pubDate>Sun, 02 Sep 2018 22:39:53 +0800</pubDate>
+      <title>First</title>
+      <link>http://jincaili.gitHub.io/post/first/</link>
+      <pubDate>Sat, 22 Jun 2019 22:47:23 +0800</pubDate>
       
-      <guid>http://www.lijincai.cn/post/recipe_beef_stew_chinese_home_cooking_style/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recipe_Beef_Stew_Chinese_Home_cooking_Style</title>
-      <link>http://www.lijincai.cn/recipe_beef_stew_chinese_home_cooking_style/</link>
-      <pubDate>Sun, 02 Sep 2018 22:38:35 +0800</pubDate>
-      
-      <guid>http://www.lijincai.cn/recipe_beef_stew_chinese_home_cooking_style/</guid>
-      <description>&lt;p&gt;~ A recipe for one of  my best friends in the U.S.~&lt;/p&gt;
+      <guid>http://jincaili.gitHub.io/post/first/</guid>
+      <description>&lt;p&gt;testing my blog&lt;/p&gt;
 </description>
     </item>
     
