@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jincai Li</title>
+    <link>http://jincaili.gitHub.io/posts/</link>
+    <description>Recent content in Posts on Jincai Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2019 22:32:14 +0800</lastBuildDate>
+    
+	    <atom:link href="http://jincaili.gitHub.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://jincaili.gitHub.io/posts/my-first-post/</link>
+      <pubDate>Sat, 22 Jun 2019 22:32:14 +0800</pubDate>
+      
+      <guid>http://jincaili.gitHub.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;testing blog&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
