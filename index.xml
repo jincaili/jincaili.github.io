@@ -18,16 +18,22 @@
       
       <guid>http://jincaili.gitHub.io/post/second/</guid>
       <description>&lt;p&gt;Testing my new blog&lt;/p&gt;
+
+&lt;!-- http://jincaili.gitHub.io/post/first/
+
+#tldr --&gt;
 </description>
     </item>
     
     <item>
-      <title>First</title>
+      <title>Chinese Steamed Bread</title>
       <link>http://jincaili.gitHub.io/post/first/</link>
       <pubDate>Sat, 22 Jun 2019 22:47:23 +0800</pubDate>
       
       <guid>http://jincaili.gitHub.io/post/first/</guid>
-      <description>&lt;p&gt;testing my blog&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://jincaili.gitHub.io/food/Mantou-1.jpg&#34; width=&#34;500&#34; alt=&#34;Mantou&#34;&gt;
+ &lt;img src=&#34;http://jincaili.gitHub.io/food/Mantou-2.jpg&#34; width=&#34;500&#34; alt=&#34;Mantou&#34;&gt;
+ &lt;img src=&#34;http://jincaili.gitHub.io/food/Mantou-zishu.jpg&#34; width=&#34;500&#34; alt=&#34;Mantou&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
