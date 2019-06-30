@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jincai Li</title>
+    <link>http://jincaili.gitHub.io/post/</link>
+    <description>Recent content in Posts on Jincai Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 13:44:11 +0800</lastBuildDate>
+    
+	    <atom:link href="http://jincaili.gitHub.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mian Ren Ren</title>
+      <link>http://jincaili.gitHub.io/post/mianrenren/</link>
+      <pubDate>Sun, 30 Jun 2019 13:44:11 +0800</pubDate>
+      
+      <guid>http://jincaili.gitHub.io/post/mianrenren/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://jincaili.gitHub.io/food/mianrenren.jpeg&#34; width=&#34;500&#34; alt=&#34;Mian Ren Ren&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dumplings</title>
+      <link>http://jincaili.gitHub.io/post/dumplings/</link>
+      <pubDate>Sat, 22 Jun 2019 23:58:33 +0800</pubDate>
+      
+      <guid>http://jincaili.gitHub.io/post/dumplings/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://jincaili.gitHub.io/food/dumplings.jpeg&#34; width=&#34;500&#34; alt=&#34;Dumplings&#34;&gt;&lt;/p&gt;
+
+&lt;!-- http://jincaili.gitHub.io/post/mantou/
+
+#tldr --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese Steamed Bread</title>
+      <link>http://jincaili.gitHub.io/post/mantou/</link>
+      <pubDate>Sat, 22 Jun 2019 22:47:23 +0800</pubDate>
+      
+      <guid>http://jincaili.gitHub.io/post/mantou/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://jincaili.gitHub.io/food/mantou-1.jpeg&#34; width=&#34;500&#34; alt=&#34;Mantou&#34;&gt;
+ &lt;img src=&#34;http://jincaili.gitHub.io/food/mantou-2.jpeg&#34; width=&#34;500&#34; alt=&#34;Mantou&#34;&gt;
+ &lt;img src=&#34;http://jincaili.gitHub.io/food/mantou-zishu.jpeg&#34; width=&#34;500&#34; alt=&#34;Mantou&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
