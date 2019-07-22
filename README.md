@@ -1,2 +1,4 @@
 # jincaili.github.io
-Jincai Academic Pages
+Jincai Li Academic Pages
+East China Normal University
+PhD Shanghai Jiao Tong University
